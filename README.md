@@ -12,7 +12,7 @@
 - Pandas: https://pandas.pydata.org/docs/reference/
 - Numpy: https://numpy.org/doc/stable/reference/
 - Matplotlib: https://matplotlib.org/stable/plot_types/index
-- BeautifulSoup: https://www.beautifulsoup.org/
+- BeautifulSoup: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 - GeoPandas: https://geopandas.org/en/stable/ 
 ### 2) Sơ lược về dữ liệu:
 - Nguồn: https://www.gso.gov.vn/ 
