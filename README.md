@@ -22,3 +22,4 @@
 - Câu hỏi 2: Phân bố lực lượng lao động theo ngành nghề như thế nào?
 - Câu hỏi 3: Phân bố lực lượng lao động theo tỉnh/ vùng miền như thế nào?
 - Câu hỏi 4: Năng suất lao động thay đổi như thế nào qua 15 năm? (2005-2020)
+### 4) Link đồ án: https://studenthcmusedu-my.sharepoint.com/:f:/g/personal/20120422_student_hcmus_edu_vn/EjyXg5XWgaFAjyZ2ljHTQFEBE66Q4TcWedJmN5JLlcU3Cg?e=9719lY
